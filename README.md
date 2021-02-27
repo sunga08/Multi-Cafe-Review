@@ -17,9 +17,18 @@
 ## 주요 기능
 
 1. 메인화면
+https://user-images.githubusercontent.com/53103434/109380918-ae945780-791a-11eb-9c3a-71ff7e39eacc.jpg
 
 2. 리뷰
+https://user-images.githubusercontent.com/53103434/109380935-c10e9100-791a-11eb-84b0-92f6b6e34426.jpg
 
 3. 비슷한 메뉴 추천
+https://user-images.githubusercontent.com/53103434/109380944-ce2b8000-791a-11eb-9073-2318a7aa41ad.jpg
 
 4. 마이페이지 (회원 정보 수정/좋아요 한 메뉴 관리/내 리뷰 관리/최근 본 메뉴)
+- 좋아요 한 메뉴 관리
+https://user-images.githubusercontent.com/53103434/109380979-f4e9b680-791a-11eb-8308-404bcc951d00.jpg
+- 내 리뷰 관리
+https://user-images.githubusercontent.com/53103434/109381003-092db380-791b-11eb-8b76-3e7e9b1355ed.jpg
+- 최근 본 메뉴
+https://user-images.githubusercontent.com/53103434/109381067-6295e280-791b-11eb-833c-9c949c60d770.jpg
